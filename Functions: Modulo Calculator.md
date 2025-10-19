@@ -25,6 +25,8 @@ print("modulo is",result(a,b))
 
 
 ## Output
+<img width="1168" height="583" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/751c982e-9ecf-467b-9d30-87905c719a04" />
+
 
 
 
