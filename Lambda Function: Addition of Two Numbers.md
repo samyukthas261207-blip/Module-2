@@ -23,3 +23,4 @@ print(f(a,b))
 
 
 ## Result
+Thus the Python program that defines a lambda function which takes two arguments a and b, and returns their sum is created successfully.
