@@ -25,7 +25,7 @@ print("modulo is",result(a,b))
 
 
 ## Output
-![Uploading Screenshot (82).png…]()
+
 
 
 
