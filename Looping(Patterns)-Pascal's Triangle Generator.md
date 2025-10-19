@@ -40,7 +40,8 @@ for i in range(n):
     print()
 
 ## Sample Output
-![Uploading Screenshot (85).png…]()
+<img width="1077" height="782" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/dd6222ba-1927-4bcc-95ae-69ce0b0cb8f1" />
+
 
 
 ## Result
