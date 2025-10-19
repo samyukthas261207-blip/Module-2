@@ -18,7 +18,8 @@ f=lambda a,b=a+b
 print(f(a,b))
 
 ## Output
-![Uploading Screenshot (83).png…]()
+<img width="492" height="387" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/670dab83-250e-44e8-bdbe-3d2b3a3c4de3" />
+
 
 
 ## Result
