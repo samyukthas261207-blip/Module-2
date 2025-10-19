@@ -18,8 +18,11 @@ def result(a,b):
     return modulo_value
     
 a=int(input())
+
 b=int(input())
+
 print("modulo is",result(a,b))
+
 
 ## Output
 ![Uploading Screenshot (82).png…]()
