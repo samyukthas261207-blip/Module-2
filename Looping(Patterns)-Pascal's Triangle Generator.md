@@ -40,6 +40,8 @@ for i in range(n):
     print()
 
 ## Sample Output
+![Uploading Screenshot (85).png…]()
+
 
 ## Result
 
