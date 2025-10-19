@@ -45,4 +45,4 @@ for i in range(n):
 
 
 ## Result
-
+Thus the Python program that generates Pascal's Triangle using numbers is executed successfully.
