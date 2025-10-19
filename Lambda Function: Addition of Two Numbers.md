@@ -18,5 +18,7 @@ f=lambda a,b=a+b
 print(f(a,b))
 
 ## Output
+![Uploading Screenshot (83).png…]()
+
 
 ## Result
