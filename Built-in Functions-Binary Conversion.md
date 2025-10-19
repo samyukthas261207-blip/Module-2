@@ -17,7 +17,8 @@ b=bin(a)
 print(b)
 
 ## Output
-![Uploading Screenshot (81).png…]()
+<img width="1075" height="764" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/380daa5e-315a-4f35-b60a-372963edf1db" />
+
 
 
 ## Result
